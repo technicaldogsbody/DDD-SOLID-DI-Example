@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Rough Code", "1. Rough Code", "{7D3791AD-43C3-47FE-B7F6-DA021EC9A382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Solid.DI.Example.One", "DDD.Solid.DI.Example.One\DDD.Solid.DI.Example.One.csproj", "{435BD14C-4AF4-4E11-9A1A-B121EA34E39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435BD14C-4AF4-4E11-9A1A-B121EA34E39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435BD14C-4AF4-4E11-9A1A-B121EA34E39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435BD14C-4AF4-4E11-9A1A-B121EA34E39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435BD14C-4AF4-4E11-9A1A-B121EA34E39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{435BD14C-4AF4-4E11-9A1A-B121EA34E39C} = {7D3791AD-43C3-47FE-B7F6-DA021EC9A382}
+	EndGlobalSection
+EndGlobal
